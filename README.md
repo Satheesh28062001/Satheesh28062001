@@ -2,9 +2,9 @@
 - 👀 I’m interested in development.
 - 🌱 I’m recently completed full stack developement course.
 - 💞️ I’m looking for job in Development field.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 satheeshwaran95@gmail.com
+- 
+
 
 <!---
 Satheesh28062001/Satheesh28062001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
