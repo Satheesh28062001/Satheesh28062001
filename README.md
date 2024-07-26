@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Satheeshwaran .
-- 👀 I’m interested in Front development.
+- 👀 I’m interested in development.
 - 🌱 I’m recently completed full stack developement course.
 - 💞️ I’m looking for job in Development field.
 - 📫 How to reach me ...
